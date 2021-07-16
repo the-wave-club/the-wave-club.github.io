@@ -416,6 +416,13 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 22px;
 }
 
+#hero .upcoming-classes {
+  color: #124265;
+  font-size: 30px;
+  margin-top: 20px;
+}
+
+
 #hero .btn-get-started {
   font-family: "Poppins", sans-serif;
   font-weight: 500;
@@ -435,7 +442,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .icon-boxes {
-  margin-top: 100px;
+  margin-top: 10px;
 }
 
 #hero .icon-box {
