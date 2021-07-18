@@ -212,6 +212,19 @@ h1, h2, h3, h4, h5, h6 {
   background: #3194db;
 }
 
+.navbar .getstarted2 {
+  background: #075E54;
+  padding: 8px 20px;
+  margin-left: 30px;
+  border-radius: 4px;
+  color: #fff;
+}
+
+.navbar .getstarted2:hover {
+  color: #fff;
+  background: #128C7E ;
+}
+
 .navbar .dropdown ul {
   display: block;
   position: absolute;
@@ -343,6 +356,10 @@ h1, h2, h3, h4, h5, h6 {
   margin: 15px;
 }
 
+.navbar-mobile .getstarted2 {
+  margin: 15px;
+}
+
 .navbar-mobile .dropdown ul {
   position: static;
   display: none;
@@ -425,7 +442,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero .btn-get-started {
   font-family: "Poppins", sans-serif;
   font-weight: 500;
-  font-size: 14px;
+  font-size: 22px;
   letter-spacing: 0.5px;
   display: inline-block;
   padding: 14px 50px;
@@ -436,8 +453,26 @@ h1, h2, h3, h4, h5, h6 {
   background: #2487ce;
 }
 
+#hero .btn-get-started2 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-size: 22px;
+  letter-spacing: 0.5px;
+  display: inline-block;
+  padding: 14px 50px;
+  border-radius: 5px;
+  transition: 0.5s;
+  margin-top: 30px;
+  color: #fff;
+  background: #075E54;
+}
+
 #hero .btn-get-started:hover {
   background: #3194db;
+}
+
+#hero .btn-get-started2:hover {
+  background: #128C7E;
 }
 
 #hero .icon-boxes {
@@ -865,7 +900,7 @@ section {
 }
 
 .testimonials .testimonial-item p {
-  font-style: italic;
+  /*font-style: italic;*/
   margin: 0 15px 15px 15px;
   padding: 20px;
   background: #f3f9fd;
