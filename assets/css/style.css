@@ -480,6 +480,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .icon-box {
+  margin-top: 30px;
   padding: 50px 30px;
   position: relative;
   overflow: hidden;
@@ -488,6 +489,7 @@ h1, h2, h3, h4, h5, h6 {
   transition: all 0.3s ease-in-out;
   border-radius: 8px;
   z-index: 1;
+  height: 500px;
 }
 
 #hero .icon-box .title {
