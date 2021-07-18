@@ -489,7 +489,7 @@ h1, h2, h3, h4, h5, h6 {
   transition: all 0.3s ease-in-out;
   border-radius: 8px;
   z-index: 1;
-  height: 320px;
+  height: 270px;
 }
 
 #hero .icon-box .title {
@@ -505,7 +505,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero .icon-box .description {
   font-size: 13px;
-  line-height: 28px;
+  line-height: 20px;
   margin-bottom: 0;
 }
 
@@ -515,9 +515,26 @@ h1, h2, h3, h4, h5, h6 {
   display: inline-block;
   transition: all 0.3s ease-in-out;
   font-size: 30px;
-  line-height: 1;
   color: #2487ce;
 }
+
+#hero .icon-box .hobby-image {
+  height: 90px;
+}
+
+
+#hero .icon-box .instructor-name {
+  font-size: 13px;
+}
+
+#hero .icon-box .instructor-info {
+  font-size: 12px;
+}
+
+#hero .icon-box .class-date {
+  font-size: 15x;
+}
+
 
 #hero .icon-box:hover {
   transform: scale(1.08);
