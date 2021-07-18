@@ -481,7 +481,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero .icon-box {
   margin-top: 10px;
-  padding: 30px 30px;
+  padding: 10px 20px;
   position: relative;
   overflow: hidden;
   background: #fff;
@@ -489,13 +489,13 @@ h1, h2, h3, h4, h5, h6 {
   transition: all 0.3s ease-in-out;
   border-radius: 8px;
   z-index: 1;
-  height: 500px;
+  height: 320px;
 }
 
 #hero .icon-box .title {
   font-weight: 700;
-  margin-bottom: 15px;
-  font-size: 18px;
+  margin-bottom: 10px;
+  font-size: 16px;
 }
 
 #hero .icon-box .title a {
@@ -504,17 +504,17 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .icon-box .description {
-  font-size: 15px;
+  font-size: 13px;
   line-height: 28px;
   margin-bottom: 0;
 }
 
 #hero .icon-box .icon {
-  margin-bottom: 20px;
-  padding-top: 10px;
+  margin-bottom: 15px;
+  padding-top: 8px;
   display: inline-block;
   transition: all 0.3s ease-in-out;
-  font-size: 36px;
+  font-size: 30px;
   line-height: 1;
   color: #2487ce;
 }
