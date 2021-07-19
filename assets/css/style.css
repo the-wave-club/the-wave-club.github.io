@@ -519,20 +519,20 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .icon-box .hobby-image {
-  height: 90px;
+  height: 100px;
 }
 
 
 #hero .icon-box .instructor-name {
-  font-size: 13px;
-}
-
-#hero .icon-box .instructor-info {
   font-size: 12px;
 }
 
+#hero .icon-box .instructor-info {
+  font-size: 10px;
+}
+
 #hero .icon-box .class-date {
-  font-size: 15x;
+  font-size: 14x;
 }
 
 
